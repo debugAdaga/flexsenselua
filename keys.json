@@ -1,0 +1,17 @@
+{
+    "keys": {
+        "FLEX-XXXX-XXXX-XXXX": {
+            "hwid": "YOUR_HWID_HERE",
+            "expiry": "2025-12-31",
+            "username": "User1",
+            "active": true
+        },
+        "FLEX-YYYY-YYYY-YYYY": {
+            "hwid": "ANOTHER_HWID",
+            "expiry": "2025-12-31",
+            "username": "User2",
+            "active": true
+        }
+    },
+    "version": "1.0.0"
+}
