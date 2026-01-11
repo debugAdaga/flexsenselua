@@ -1,14 +1,14 @@
 {
     "keys": {
-        "FLEX-XXXX-XXXX-XXXX": {
-            "hwid": "YOUR_HWID_HERE",
+        "FLEX-ABCD-EFGH-IJKL": {
+            "hwid": "ANY",
             "expiry": "2025-12-31",
             "username": "User1",
             "active": true
         },
-        "FLEX-YYYY-YYYY-YYYY": {
-            "hwid": "ANOTHER_HWID",
-            "expiry": "2025-12-31",
+        "НОВЫЙ_КЛЮЧ_ЗДЕСЬ": {
+            "hwid": "КОНКРЕТНЫЙ_HWID",
+            "expiry": "2026-01-15",
             "username": "User2",
             "active": true
         }
