@@ -8,8 +8,8 @@
 
 -- ==================== КОНФИГУРАЦИЯ ====================
 local CONFIG = {
-    -- GitHub Configuration
-    GITHUB_TOKEN = "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",
+    -- GitHub Configuration656
+    GITHUB_TOKEN = "57567567568",
     GITHUB_USERNAME = "debugAdaga",
     GITHUB_REPO = "flexsenselua",
     KEYS_FILE_PATH = "keys.json",
