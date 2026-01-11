@@ -9,11 +9,11 @@ local KeySystem = {}
 -- ==================== КОНФИГУРАЦИЯ ====================
 local CONFIG = {
     -- Замените на свои ссылки!
-    KEYS_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/keys.json",
+    KEYS_URL = "https://raw.githubusercontent.com/debugAdaga/flexsenselua/main/keys.json",
     SCRIPT_URL = "https://raw.githubusercontent.com/debugAdaga/flexsenselua/refs/heads/main/flexsense.lua",
     
     -- Опционально
-    DISCORD_INVITE = "https://discord.gg/YOUR_INVITE",
+    DISCORD_INVITE = "https://discord.gg/7AmNUUWf",
     DISCORD_WEBHOOK = "", -- Для логов
     
     -- Настройки
