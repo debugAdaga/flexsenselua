@@ -1,18 +1,1 @@
-{
-    "keys": {
-        "FLEX-ABCD-EFGH-IJKL": {
-            "hwid": "ANY",
-            "expiry": "2025-12-31",
-            "username": "User1",
-            "active": true
-        },
-        "FLEX-9A8Q-ID3F-IWG2": {
-            "hwid": "D8D74D03-9D73-40AE-8BAC-01B59E0751FB",
-            "expiry": "2026-01-13",
-            "username": "zxcunblessed",
-            "active": true
-        }
-    },
-    "version": "1.0.0"
-}
-"FLEX-9A8Q-ID3F-IWG2": {"hwid":"D8D74D03-9D73-40AE-8BAC-01B59E0751FB","active":true,"username":"zxcunblessed","expiry":"2026-01-13"}
+{"keys":{"FLEX-EION-S4DB-2P15-9O8W":{"hwid":"ANY","note":"admin","active":true,"expiry":"2026-01-12","username":"zxcunblessed","usageCount":0,"created":"2026-01-11 07:31:19","lastUsed":"Never","createdBy":"Zxcunblessed"}},"version":"1.0","metadata":{"created":"2026-01-11 07:31:05","lastModified":"2026-01-11 07:31:19","totalKeys":1}}
