@@ -6,13 +6,13 @@
             "username": "User1",
             "active": true
         },
-        "НОВЫЙ_КЛЮЧ_ЗДЕСЬ": {
-            "hwid": "КОНКРЕТНЫЙ_HWID",
-            "expiry": "2026-01-15",
-            "username": "User2",
+        "FLEX-9A8Q-ID3F-IWG2": {
+            "hwid": "D8D74D03-9D73-40AE-8BAC-01B59E0751FB",
+            "expiry": "2026-01-13",
+            "username": "zxcunblessed",
             "active": true
         }
     },
     "version": "1.0.0"
-"FLEX-200I-CAJR-LO1C": {"hwid":"D8D74D03-9D73-40AE-8BAC-01B59E0751FB","active":true,"username":"zxcunblessed","expiry":"2026-02-10"}
 }
+"FLEX-9A8Q-ID3F-IWG2": {"hwid":"D8D74D03-9D73-40AE-8BAC-01B59E0751FB","active":true,"username":"zxcunblessed","expiry":"2026-01-13"}
